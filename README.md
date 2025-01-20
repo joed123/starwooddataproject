@@ -1,0 +1,1 @@
+This Python script uses the PyMuPDF library (fitz) to analyze a PDF document and identify the start and end pages of a specific section. The script is designed to locate "DIVISION 08 -- OPENINGS" within a project manual and outputs details such as the section title, starting page, and ending page.
